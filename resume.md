@@ -3,17 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Instructor for the Rochester Prison Educaiton Project and the Cornell Prison Educaiton Project
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+2014-Current
+University of Rochester
+Ph.D. Candidate, History
+M.A. History
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2010-2012
+Duquesne University
+M.A. Historical Studies
+
+2002-2006
+Nazareth College
+B.A. History
 
 ## Awards
 
