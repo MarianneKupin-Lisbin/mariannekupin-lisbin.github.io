@@ -7,8 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Second project,"The Sex Trafficking and Slave Trade of Romani Women in Late Medieval Wallachia"
+- Dissertation, "The Illusion of Dissidence: The Virgin Mary, Rome, and Local Catholicism in Seventeenth-Century Bosnia"
+- 
+- 
+- 
